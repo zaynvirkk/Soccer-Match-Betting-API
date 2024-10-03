@@ -1,0 +1,211 @@
+[
+  {
+    "league": "Europe - Europa League",
+    "startTime": "17:45",
+    "homeTeam": "Maccabi Tel Aviv",
+    "awayTeam": "FC Midtjylland",
+    "odds": {
+      "home": "3.30",
+      "draw": "3.50",
+      "away": "2.10"
+    }
+  },
+  {
+    "league": "Europe - Europa League",
+    "startTime": "17:45",
+    "homeTeam": "Olympiacos",
+    "awayTeam": "Braga",
+    "odds": {
+      "home": "2.10",
+      "draw": "3.40",
+      "away": "3.40"
+    }
+  },
+  {
+    "league": "Europe - Europa League",
+    "startTime": "17:45",
+    "homeTeam": "Ferencvaros",
+    "awayTeam": "Tottenham",
+    "odds": {
+      "home": "4.75",
+      "draw": "4.75",
+      "away": "1.55"
+    }
+  },
+  {
+    "league": "Europe - Europa League",
+    "startTime": "17:45",
+    "homeTeam": "Slavia Prague",
+    "awayTeam": "Ajax",
+    "odds": {
+      "home": "1.80",
+      "draw": "3.75",
+      "away": "4.10"
+    }
+  },
+  {
+    "league": "Europe - Europa League",
+    "startTime": "17:45",
+    "homeTeam": "RFS",
+    "awayTeam": "Galatasaray",
+    "odds": {
+      "home": "8.50",
+      "draw": "6.00",
+      "away": "1.27"
+    }
+  },
+  {
+    "league": "Europe - Europa League",
+    "startTime": "17:45",
+    "homeTeam": "Lazio",
+    "awayTeam": "Nice",
+    "odds": {
+      "home": "1.95",
+      "draw": "3.40",
+      "away": "3.90"
+    }
+  },
+  {
+    "league": "Europe - Europa League",
+    "startTime": "17:45",
+    "homeTeam": "Hoffenheim",
+    "awayTeam": "Dynamo Kyiv",
+    "odds": {
+      "home": "2.10",
+      "draw": "3.70",
+      "away": "3.10"
+    }
+  },
+  {
+    "league": "Europe - Europa League",
+    "startTime": "17:45",
+    "homeTeam": "Qarabag FK",
+    "awayTeam": "Malmoe FF",
+    "odds": {
+      "home": "1.95",
+      "draw": "3.60",
+      "away": "3.60"
+    }
+  },
+  {
+    "league": "Europe - Europa League",
+    "startTime": "17:45",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Anderlecht",
+    "odds": {
+      "home": "1.53",
+      "draw": "3.90",
+      "away": "6.50"
+    }
+  },
+  {
+    "league": "Europe - Europa League",
+    "startTime": "20:00",
+    "homeTeam": "Elfsborg",
+    "awayTeam": "Roma",
+    "odds": {
+      "home": "4.50",
+      "draw": "3.80",
+      "away": "1.70"
+    }
+  },
+  {
+    "league": "Europe - Europa League",
+    "startTime": "20:00",
+    "homeTeam": "Besiktas",
+    "awayTeam": "Eintracht Frankfurt",
+    "odds": {
+      "home": "2.80",
+      "draw": "3.60",
+      "away": "2.35"
+    }
+  },
+  {
+    "league": "Europe - Europa League",
+    "startTime": "20:00",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "AZ Alkmaar",
+    "odds": {
+      "home": "1.57",
+      "draw": "4.00",
+      "away": "5.50"
+    }
+  },
+  {
+    "league": "Europe - Europa League",
+    "startTime": "20:00",
+    "homeTeam": "Rangers",
+    "awayTeam": "Lyon",
+    "odds": {
+      "home": "2.45",
+      "draw": "3.60",
+      "away": "2.63"
+    }
+  },
+  {
+    "league": "Europe - Europa League",
+    "startTime": "20:00",
+    "homeTeam": "Union St.Gilloise",
+    "awayTeam": "Bodoe/Glimt",
+    "odds": {
+      "home": "1.95",
+      "draw": "3.80",
+      "away": "3.50"
+    }
+  },
+  {
+    "league": "Europe - Europa League",
+    "startTime": "20:00",
+    "homeTeam": "Twente",
+    "awayTeam": "Fenerbahce",
+    "odds": {
+      "home": "2.88",
+      "draw": "3.50",
+      "away": "2.30"
+    }
+  },
+  {
+    "league": "Europe - Europa League",
+    "startTime": "20:00",
+    "homeTeam": "Viktoria Plzen",
+    "awayTeam": "Ludogorets Razgrad",
+    "odds": {
+      "home": "1.75",
+      "draw": "3.50",
+      "away": "4.75"
+    }
+  },
+  {
+    "league": "Europe - Europa League",
+    "startTime": "20:00",
+    "homeTeam": "FC Porto",
+    "awayTeam": "Manchester United",
+    "odds": {
+      "home": "2.35",
+      "draw": "3.40",
+      "away": "2.88"
+    }
+  },
+  {
+    "league": "Europe - Europa League",
+    "startTime": "20:00",
+    "homeTeam": "PAOK Thessaloniki FC",
+    "awayTeam": "FC FCSB",
+    "odds": {
+      "home": "1.60",
+      "draw": "4.00",
+      "away": "5.00"
+    }
+  },
+  {
+    "league": "Brazil - Serie A",
+    "startTime": "23:00",
+    "homeTeam": "Criciuma",
+    "awayTeam": "Atletico GO",
+    "odds": {
+      "home": "1.80",
+      "draw": "3.40",
+      "away": "4.75"
+    }
+  }
+]
